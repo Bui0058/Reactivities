@@ -1,0 +1,13 @@
+F:\FULL-STACK WEB COURSERA\ASP_NET\NetCore with React _ Udemy\Reactivities\Application\bin\Debug\netstandard2.1\Application.deps.json
+F:\FULL-STACK WEB COURSERA\ASP_NET\NetCore with React _ Udemy\Reactivities\Application\bin\Debug\netstandard2.1\Application.dll
+F:\FULL-STACK WEB COURSERA\ASP_NET\NetCore with React _ Udemy\Reactivities\Application\bin\Debug\netstandard2.1\Application.pdb
+F:\FULL-STACK WEB COURSERA\ASP_NET\NetCore with React _ Udemy\Reactivities\Application\bin\Debug\netstandard2.1\Domain.dll
+F:\FULL-STACK WEB COURSERA\ASP_NET\NetCore with React _ Udemy\Reactivities\Application\bin\Debug\netstandard2.1\Persistance.dll
+F:\FULL-STACK WEB COURSERA\ASP_NET\NetCore with React _ Udemy\Reactivities\Application\bin\Debug\netstandard2.1\Domain.pdb
+F:\FULL-STACK WEB COURSERA\ASP_NET\NetCore with React _ Udemy\Reactivities\Application\bin\Debug\netstandard2.1\Persistance.pdb
+F:\FULL-STACK WEB COURSERA\ASP_NET\NetCore with React _ Udemy\Reactivities\Application\obj\Debug\netstandard2.1\Application.csprojAssemblyReference.cache
+F:\FULL-STACK WEB COURSERA\ASP_NET\NetCore with React _ Udemy\Reactivities\Application\obj\Debug\netstandard2.1\Application.AssemblyInfoInputs.cache
+F:\FULL-STACK WEB COURSERA\ASP_NET\NetCore with React _ Udemy\Reactivities\Application\obj\Debug\netstandard2.1\Application.AssemblyInfo.cs
+F:\FULL-STACK WEB COURSERA\ASP_NET\NetCore with React _ Udemy\Reactivities\Application\obj\Debug\netstandard2.1\Application.csproj.CopyComplete
+F:\FULL-STACK WEB COURSERA\ASP_NET\NetCore with React _ Udemy\Reactivities\Application\obj\Debug\netstandard2.1\Application.dll
+F:\FULL-STACK WEB COURSERA\ASP_NET\NetCore with React _ Udemy\Reactivities\Application\obj\Debug\netstandard2.1\Application.pdb
