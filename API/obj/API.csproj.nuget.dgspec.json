@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\FULL-STACK WEB COURSERA\\ASP_NET\\NetCore with React _ Udemy\\Reactivities\\API\\API.csproj": {}
+    "F:\\FULL-STACK WEB COURSERA\\ASP_NET\\NetCore with React _ Udemy\\Reactivities\\api\\API.csproj": {}
   },
   "projects": {
-    "F:\\FULL-STACK WEB COURSERA\\ASP_NET\\NetCore with React _ Udemy\\Reactivities\\API\\API.csproj": {
+    "F:\\FULL-STACK WEB COURSERA\\ASP_NET\\NetCore with React _ Udemy\\Reactivities\\api\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\FULL-STACK WEB COURSERA\\ASP_NET\\NetCore with React _ Udemy\\Reactivities\\API\\API.csproj",
+        "projectUniqueName": "F:\\FULL-STACK WEB COURSERA\\ASP_NET\\NetCore with React _ Udemy\\Reactivities\\api\\API.csproj",
         "projectName": "API",
-        "projectPath": "F:\\FULL-STACK WEB COURSERA\\ASP_NET\\NetCore with React _ Udemy\\Reactivities\\API\\API.csproj",
+        "projectPath": "F:\\FULL-STACK WEB COURSERA\\ASP_NET\\NetCore with React _ Udemy\\Reactivities\\api\\API.csproj",
         "packagesPath": "C:\\Users\\buivi\\.nuget\\packages\\",
-        "outputPath": "F:\\FULL-STACK WEB COURSERA\\ASP_NET\\NetCore with React _ Udemy\\Reactivities\\API\\obj\\",
+        "outputPath": "F:\\FULL-STACK WEB COURSERA\\ASP_NET\\NetCore with React _ Udemy\\Reactivities\\api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
