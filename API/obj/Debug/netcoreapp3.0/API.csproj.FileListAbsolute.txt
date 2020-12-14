@@ -60,3 +60,7 @@ F:\FULL-STACK WEB COURSERA\ASP_NET\NetCore with React _ Udemy\Reactivities\API\b
 F:\FULL-STACK WEB COURSERA\ASP_NET\NetCore with React _ Udemy\Reactivities\API\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
 F:\FULL-STACK WEB COURSERA\ASP_NET\NetCore with React _ Udemy\Reactivities\API\bin\Debug\netcoreapp3.0\MediatR.dll
 F:\FULL-STACK WEB COURSERA\ASP_NET\NetCore with React _ Udemy\Reactivities\API\bin\Debug\netcoreapp3.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+F:\FULL-STACK WEB COURSERA\ASP_NET\NetCore with React _ Udemy\Reactivities\API\bin\Debug\netcoreapp3.0\FluentValidation.dll
+F:\FULL-STACK WEB COURSERA\ASP_NET\NetCore with React _ Udemy\Reactivities\API\bin\Debug\netcoreapp3.0\FluentValidation.AspNetCore.dll
+F:\FULL-STACK WEB COURSERA\ASP_NET\NetCore with React _ Udemy\Reactivities\API\bin\Debug\netcoreapp3.0\FluentValidation.DependencyInjectionExtensions.dll
+F:\FULL-STACK WEB COURSERA\ASP_NET\NetCore with React _ Udemy\Reactivities\API\obj\Debug\netcoreapp3.0\API.MvcApplicationPartsAssemblyInfo.cs

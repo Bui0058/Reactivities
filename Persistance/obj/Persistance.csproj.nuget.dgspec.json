@@ -20,13 +20,13 @@
           "C:\\Users\\buivi\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "netstandard2.1"
+          "netcoreapp3.0"
         ],
         "sources": {
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netstandard2.1": {
+          "netcoreapp3.0": {
             "projectReferences": {}
           }
         },
@@ -37,7 +37,7 @@
         }
       },
       "frameworks": {
-        "netstandard2.1": {
+        "netcoreapp3.0": {
           "imports": [
             "net461",
             "net462",
@@ -49,7 +49,7 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "NETStandard.Library": {
+            "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
@@ -73,13 +73,13 @@
           "C:\\Users\\buivi\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "netstandard2.1"
+          "netcoreapp3.0"
         ],
         "sources": {
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netstandard2.1": {
+          "netcoreapp3.0": {
             "projectReferences": {
               "F:\\FULL-STACK WEB COURSERA\\ASP_NET\\NetCore with React _ Udemy\\Reactivities\\Domain\\Domain.csproj": {
                 "projectPath": "F:\\FULL-STACK WEB COURSERA\\ASP_NET\\NetCore with React _ Udemy\\Reactivities\\Domain\\Domain.csproj"
@@ -94,7 +94,7 @@
         }
       },
       "frameworks": {
-        "netstandard2.1": {
+        "netcoreapp3.0": {
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
@@ -116,7 +116,7 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "NETStandard.Library": {
+            "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },

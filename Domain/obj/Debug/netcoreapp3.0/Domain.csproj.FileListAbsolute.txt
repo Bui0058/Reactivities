@@ -1,0 +1,8 @@
+F:\FULL-STACK WEB COURSERA\ASP_NET\NetCore with React _ Udemy\Reactivities\Domain\bin\Debug\netcoreapp3.0\Domain.deps.json
+F:\FULL-STACK WEB COURSERA\ASP_NET\NetCore with React _ Udemy\Reactivities\Domain\bin\Debug\netcoreapp3.0\Domain.dll
+F:\FULL-STACK WEB COURSERA\ASP_NET\NetCore with React _ Udemy\Reactivities\Domain\bin\Debug\netcoreapp3.0\Domain.pdb
+F:\FULL-STACK WEB COURSERA\ASP_NET\NetCore with React _ Udemy\Reactivities\Domain\obj\Debug\netcoreapp3.0\Domain.csprojAssemblyReference.cache
+F:\FULL-STACK WEB COURSERA\ASP_NET\NetCore with React _ Udemy\Reactivities\Domain\obj\Debug\netcoreapp3.0\Domain.AssemblyInfoInputs.cache
+F:\FULL-STACK WEB COURSERA\ASP_NET\NetCore with React _ Udemy\Reactivities\Domain\obj\Debug\netcoreapp3.0\Domain.AssemblyInfo.cs
+F:\FULL-STACK WEB COURSERA\ASP_NET\NetCore with React _ Udemy\Reactivities\Domain\obj\Debug\netcoreapp3.0\Domain.dll
+F:\FULL-STACK WEB COURSERA\ASP_NET\NetCore with React _ Udemy\Reactivities\Domain\obj\Debug\netcoreapp3.0\Domain.pdb
