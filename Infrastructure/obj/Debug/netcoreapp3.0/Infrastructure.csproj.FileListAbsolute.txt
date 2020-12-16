@@ -1,0 +1,15 @@
+F:\FULL-STACK WEB COURSERA\ASP_NET\NetCore with React _ Udemy\Reactivities\Infrastructure\obj\Debug\netcoreapp3.0\Infrastructure.csprojAssemblyReference.cache
+F:\FULL-STACK WEB COURSERA\ASP_NET\NetCore with React _ Udemy\Reactivities\Infrastructure\obj\Debug\netcoreapp3.0\Infrastructure.AssemblyInfoInputs.cache
+F:\FULL-STACK WEB COURSERA\ASP_NET\NetCore with React _ Udemy\Reactivities\Infrastructure\obj\Debug\netcoreapp3.0\Infrastructure.AssemblyInfo.cs
+F:\FULL-STACK WEB COURSERA\ASP_NET\NetCore with React _ Udemy\Reactivities\Infrastructure\bin\Debug\netcoreapp3.0\Infrastructure.deps.json
+F:\FULL-STACK WEB COURSERA\ASP_NET\NetCore with React _ Udemy\Reactivities\Infrastructure\bin\Debug\netcoreapp3.0\Infrastructure.dll
+F:\FULL-STACK WEB COURSERA\ASP_NET\NetCore with React _ Udemy\Reactivities\Infrastructure\bin\Debug\netcoreapp3.0\Infrastructure.pdb
+F:\FULL-STACK WEB COURSERA\ASP_NET\NetCore with React _ Udemy\Reactivities\Infrastructure\bin\Debug\netcoreapp3.0\Application.dll
+F:\FULL-STACK WEB COURSERA\ASP_NET\NetCore with React _ Udemy\Reactivities\Infrastructure\bin\Debug\netcoreapp3.0\Domain.dll
+F:\FULL-STACK WEB COURSERA\ASP_NET\NetCore with React _ Udemy\Reactivities\Infrastructure\bin\Debug\netcoreapp3.0\Persistance.dll
+F:\FULL-STACK WEB COURSERA\ASP_NET\NetCore with React _ Udemy\Reactivities\Infrastructure\bin\Debug\netcoreapp3.0\Application.pdb
+F:\FULL-STACK WEB COURSERA\ASP_NET\NetCore with React _ Udemy\Reactivities\Infrastructure\bin\Debug\netcoreapp3.0\Domain.pdb
+F:\FULL-STACK WEB COURSERA\ASP_NET\NetCore with React _ Udemy\Reactivities\Infrastructure\bin\Debug\netcoreapp3.0\Persistance.pdb
+F:\FULL-STACK WEB COURSERA\ASP_NET\NetCore with React _ Udemy\Reactivities\Infrastructure\obj\Debug\netcoreapp3.0\Infrastructure.csproj.CopyComplete
+F:\FULL-STACK WEB COURSERA\ASP_NET\NetCore with React _ Udemy\Reactivities\Infrastructure\obj\Debug\netcoreapp3.0\Infrastructure.dll
+F:\FULL-STACK WEB COURSERA\ASP_NET\NetCore with React _ Udemy\Reactivities\Infrastructure\obj\Debug\netcoreapp3.0\Infrastructure.pdb
