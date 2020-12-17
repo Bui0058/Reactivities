@@ -7,6 +7,7 @@ using Persistance;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.AspNetCore.Identity;
 using Domain;
+using Persistence;
 
 namespace API
 {
