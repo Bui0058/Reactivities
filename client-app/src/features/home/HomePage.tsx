@@ -35,7 +35,6 @@ export const HomePage = () => {
         ) : (
           <Fragment>
             <Header as="h2" inverted content="Welcome to Reactivities" />
-            <Header as="h2" inverted content={`Welcome to Reactivitities`} />
             <Button
               onClick={() => openModal(<LoginForm />)}
               size="huge"

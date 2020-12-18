@@ -79,3 +79,7 @@ F:\FULL-STACK WEB COURSERA\ASP_NET\NetCore with React _ Udemy\Reactivities\API\b
 F:\FULL-STACK WEB COURSERA\ASP_NET\NetCore with React _ Udemy\Reactivities\API\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 F:\FULL-STACK WEB COURSERA\ASP_NET\NetCore with React _ Udemy\Reactivities\API\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Protocols.dll
 F:\FULL-STACK WEB COURSERA\ASP_NET\NetCore with React _ Udemy\Reactivities\API\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\FULL-STACK WEB COURSERA\ASP_NET\NetCore with React _ Udemy\Reactivities\API\bin\Debug\netcoreapp3.0\AutoMapper.dll
+F:\FULL-STACK WEB COURSERA\ASP_NET\NetCore with React _ Udemy\Reactivities\API\bin\Debug\netcoreapp3.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+F:\FULL-STACK WEB COURSERA\ASP_NET\NetCore with React _ Udemy\Reactivities\API\bin\Debug\netcoreapp3.0\Castle.Core.dll
+F:\FULL-STACK WEB COURSERA\ASP_NET\NetCore with React _ Udemy\Reactivities\API\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Proxies.dll
