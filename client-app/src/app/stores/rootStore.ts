@@ -1,4 +1,4 @@
-import { configure } from "mobx";
+import { configure, makeAutoObservable } from "mobx";
 import { createContext } from "react";
 import ActivityStore from "./activityStore";
 import CommonStore from "./commonStore";
@@ -19,6 +19,7 @@ export class RootStore {
         this.userStore = new UserStore(this);
         this.commonStore = new CommonStore(this);
         this.modalStore = new ModalStore(this);
+        makeAutoObservable(this);
     }
 
 }

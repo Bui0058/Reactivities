@@ -1,4 +1,4 @@
-import { observable, action, reaction } from "mobx";
+import { observable, action, reaction, makeAutoObservable } from "mobx";
 import { RootStore } from "./rootStore";
 
 export default class CommonStore {
@@ -6,6 +6,8 @@ export default class CommonStore {
 
     constructor (rootStore: RootStore) {
         this.rootStore = rootStore;
+        makeAutoObservable(this);
+
 
         reaction(
             () => this.token,

@@ -1,4 +1,4 @@
-import { observable, action, computed, runInAction } from 'mobx';
+import { observable, action, computed, runInAction, makeAutoObservable } from 'mobx';
 import { SyntheticEvent } from 'react';
 import { IActivity } from '../models/activity';
 import agent from '../api/agent';
@@ -14,6 +14,8 @@ export default class ActivityStore {
 
   constructor (rootStore: RootStore) {
     this.rootStore = rootStore;
+    makeAutoObservable(this);
+
   }
 
   @observable activityRegistry = new Map();
