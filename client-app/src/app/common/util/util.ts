@@ -1,4 +1,3 @@
-import { userInfo } from "os";
 import { IActivity, IAttendee } from "../../models/activity";
 import { IUser } from "../../models/user";
 
